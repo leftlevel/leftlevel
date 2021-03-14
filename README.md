@@ -1,9 +1,10 @@
-### 你好，世界 👋
+### Hello,World 👋
 
-- :orange_book: 
-- :hammer: 
-- :ram: 
-- :meat_on_bone: 
+I am trying to learn the frontend, calm down to study.
+
+- :orange_book: Focusing on Vue & React & Other js
+- :hammer: Creator of application
+- 📫 reach me：1025277736@qq.com
 
 <!--
 **leftlevel/leftlevel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
